@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Poppins, sans-serif;
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
-    background: black;
+    background: rgb(186, 163, 190);
     color: white;
 }
 
