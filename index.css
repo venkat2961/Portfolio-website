@@ -4,12 +4,11 @@
     box-sizing: border-box;
     font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
 }
-
 body {
     background: rgb(186, 163, 190);
     color: white;
+    overflow-x: hidden;
 }
-
 header {
     background:rgba(0, 0, 0, 0.7);
     position: fixed;
